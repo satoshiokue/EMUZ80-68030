@@ -1,6 +1,8 @@
 # EMUZ80-68030
-32bit  
-PERSONAL WORKSTATION
+
+### 32bit PERSONAL WORKSTATION
+
+MC68030のDynamic Bus Sizing機能によって「外部8bitバス」で動作します。
 
 ![MEZ68030](https://github.com/satoshiokue/EMUZ80-68030/blob/main/imgs/IMG_1812.jpeg)  
 MC68EC030  
@@ -34,7 +36,7 @@ EMUZ80で配布されているフォルダemuz80.X下のmain.cと置き換えて
 ## アドレスマップ
 ```
 ROM   0x0000 - 0x3FFF 16Kbytes
-RAM   0x8000 - 0x8FFF 4Kbytes (0x9FFF 16Kbytes:PIC18F47Q84,PIC18F47Q83)
+RAM   0x8000 - 0x8FFF 4Kbytes (0x9FFF 8Kbytes:PIC18F47Q84,PIC18F47Q83)
 
 UART  0xE000   Data REGISTER
       0xE001   Control REGISTER
