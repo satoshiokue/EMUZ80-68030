@@ -55,7 +55,8 @@ xxd -i -c16 foo.bin > foo.txt
 ```
 
 ### EhBASIC68k for EMU
-https://github.com/satoshiokue/EhBASIC68k-EMU
+https://github.com/satoshiokue/EhBASIC68k-EMU  
+このコードは68030命令キャッシュが無効になっているのでパフォーマンスが約18%低下します。  
 
 ## 謝辞
 思い入れのあるMPUを動かすことのできるシンプルで美しいEMUZ80を開発された電脳伝説さんに感謝いたします。
