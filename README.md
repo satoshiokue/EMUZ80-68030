@@ -13,7 +13,7 @@ MC68EC030RP25B8P10とPIC18F47Q43の組み合わせで動作確認しています
 
 動作確認で使用したMPU  
 MC68EC030RP25B  
-MC68EC030RP40B
+MC68EC030RP40B  
 MC68030RC33C
 
 ソースコードはGazelleさんのEMUZ80用main_cpz.cを元に改変してGPLライセンスに基づいて公開するものです。
