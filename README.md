@@ -25,6 +25,9 @@ https://drive.google.com/drive/folders/1NaIIpzsUY3lptekcrJjwyvWTBNHIjUf1
 ## メザニンボード
 https://github.com/satoshiokue/MEZ68030
 
+MEZ68030専用プリント基板 - オレンジピコショップ  
+https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-065.html
+
 ## 回路図
 https://github.com/satoshiokue/MEZ68030/blob/main/MEZ68030.pdf
 
